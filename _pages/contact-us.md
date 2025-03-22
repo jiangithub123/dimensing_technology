@@ -1,7 +1,8 @@
 ---
+layout: archive
 title: "Contact Us"
 permalink: /contact-us/
-layout: single
+author_profile: true
 ---
 
 Email: dimensing_technology@outlook.com
