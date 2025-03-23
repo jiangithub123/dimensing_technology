@@ -4,6 +4,6 @@ title: "Contact Us"
 permalink: /contact-us/
 author_profile: true
 ---
-Test
+
 Email: dimensing_technology@outlook.com
 
