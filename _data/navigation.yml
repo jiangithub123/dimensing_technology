@@ -2,8 +2,8 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Contact us"
-    url: /contact-us/
+  # - title: "Contact us"
+  #   url: /contact-us/
 
   - title: "Talks"
     url: /talks/    
