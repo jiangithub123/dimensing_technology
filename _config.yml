@@ -8,11 +8,11 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Dimensing Technology"
+title                    : "Your Name / Site Title"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
-url                      : https://jiangithub123.github.io/dimensing_technology/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://jiangithub123.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "/dimensing_technology" # the subpath of your site, e.g. "/blog"
 repository               : "jiangithub123/jiangithub123.github.io"
 
