@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Contact Us"
+title: "Contact us"
 permalink: /contact-us/
 author_profile: true
 ---

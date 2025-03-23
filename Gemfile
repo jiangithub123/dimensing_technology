@@ -9,3 +9,7 @@ group :jekyll_plugins do
 end
 
 gem 'github-pages'
+
+# Required for Windows， added on 20230322
+gem 'tzinfo'
+gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
