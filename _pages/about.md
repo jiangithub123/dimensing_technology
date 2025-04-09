@@ -9,7 +9,7 @@ redirect_from:
 
 Added an image
 
-(/images/editing-talk.png)
+![Editing a markdown file for a talk](/images/editing-talk.png)
 
 Hahah
 
