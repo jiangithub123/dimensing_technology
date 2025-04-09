@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-Added an image, update 1:04am
+Added an image, update 1:08am
 
-![Editing a markdown file for a talk](../images/editing-talk.png)
+![Editing a markdown file for a talk]({{site.baseurl}}/images/editing-talk.png)
 
 Hahah
 
