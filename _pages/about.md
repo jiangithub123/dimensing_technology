@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Added an image
+Added an image, update 1:04am
 
 ![Editing a markdown file for a talk](../images/editing-talk.png)
 
